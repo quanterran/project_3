@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: reverseproxy
-        image: quanterran/reverseproxy:v1
+        image: quanterran/reverseproxy:v3
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
