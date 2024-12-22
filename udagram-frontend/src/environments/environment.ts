@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   appName: 'Udagram',
-  apiHost: 'http://a03ce983559444b74a7227552fc65b81-1162214455.us-east-1.elb.amazonaws.com/:8080/api/v0'
+  apiHost: 'http://a03ce983559444b74a7227552fc65b81-1162214455.us-east-1.elb.amazonaws.com:8080/api/v0'
 };
 
 /*

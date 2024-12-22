@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: quanterran/udagram-frontend:v3
+        image: quanterran/udagram-frontend:v5
         ports:
         - containerPort: 80
